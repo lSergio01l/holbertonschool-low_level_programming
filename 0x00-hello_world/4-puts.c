@@ -2,8 +2,6 @@
 
 int main()
 {
-   char string[40];
-   strcpy(str, "\"Programming is like building a multilingual puzzle");
-   puts(string);
+   puts("\"Programming is like building a multilingual puzzle");
    return 0;
 }
