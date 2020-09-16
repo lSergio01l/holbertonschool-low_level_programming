@@ -33,9 +33,8 @@
 - **All your files should end with a new line**
 - **The first line of all your files should be exactly #!/bin/bash**
 
-> Love process and you will achieve progress.
-
 Autor
 =========
+> Love process and you will achieve progress.
 
 Sergio Salcedo
