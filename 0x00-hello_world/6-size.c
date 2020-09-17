@@ -3,7 +3,7 @@
  * main - Print sizes about dirrents data types
  * return: 0
  */
-int main(void)
+int main()
 {
 	printf("Size of a char: %u byte(s)\n", sizeof(char));
 	printf("Size of an int: %u byte(s)\n", sizeof(int));
