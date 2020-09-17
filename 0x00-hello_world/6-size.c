@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /*
- * main - Prints size of some data types
- * Description: Prints the sizes of a char, int, long int, long long int, and float
- * Return: 0
- */
+* main - Prints size of some data types
+* Description: Prints the sizes of a char, int, long int, long long int, and float
+* Return: 0 
+*/
 
 int main(void)
 {	
