@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#warning you need to specify your operating system to see the project
 /**
  * main - Print the sizes about the diferents data types
  * Description: Print sizes of a char, int, long, long long, float
@@ -13,4 +13,4 @@ int main(void)
 	printf("Size of a long long int: %u byte(s)\n", sizeof(long long));
 	printf("Size of a float: %u byte(s)\n", sizeof(float));
 	return (0);
-}
+} 
