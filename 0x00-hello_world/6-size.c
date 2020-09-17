@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - Print sizes about dirrents data types
- * Description: Print sizes of char, int, long int, long long int nad float 
  * return: 0
  */
 int main(void)
