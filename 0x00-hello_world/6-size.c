@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Print sizes about dirrents data types
  * return 0
