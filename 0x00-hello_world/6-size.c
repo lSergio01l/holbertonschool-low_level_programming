@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Print the sizes about the diferents data types
+ * Description: Print sizes of a char, int, long, long long, float
  * return: 0
  */
 int main(void)
