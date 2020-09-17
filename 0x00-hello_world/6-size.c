@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Print sizes
+ * main - Print sizes about dirrents data types
  * return 0
 */
 int main(void)
