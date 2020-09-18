@@ -1,14 +1,14 @@
-# 0x00. C - Hello, World
+# 0x01. C- variables, if, else, while
 ## Task
 
-- **0. Preprocessor**
-- **1. Compiler**
-- **2. Assembler**
-- **3. Name**
-- **4. Hello, puts**
-- **5. Hello, printf**
-- **6. Size is not grandeur, and territory does not make a nation**
-- **7. What happens when you type gcc main.c**
+- **0. Positive anything is better than negative nothing**
+- **1. The last digit **
+- **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
+- **3. alphABET**
+- **4. When I was having that alphabet soup, I never thought that it would pay off**
+- **5. Numbers**
+- **6. Numberz**
+- **7. Smile in the mirror**
 
 Autor
 ======
