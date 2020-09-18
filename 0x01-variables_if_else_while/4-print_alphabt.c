@@ -5,15 +5,12 @@
 */
 int main(void)
 {
-	char a = 'a';
+	char a;
 
-	do {
-		if (a == 'e' && a == 'q')
-			a = a + 1;
-			continue;
+	for (a = 'a'; a <= 'z', a++)
+		if (a != 'e' && a != 'q');
+			break;
 		putchar(a);
 	putchar('\n');
-	a++;
-	} while (a <= 'z');
 	return (0);
 }
