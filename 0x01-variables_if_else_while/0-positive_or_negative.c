@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 int main(void)
 {
@@ -5,13 +7,12 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
 	if(n > 0) {
-	printf("is positive\n");
+		printf("%i is positive\n", n);
 	} else if (n < 0) {
-	printf("is negative\n");
+		printf("%i is negative\n", n);
 	} else if (n == 0) {
-	printf("is zero\n");
+		printf("%i is zero\n", n);
 	}
 	return (0);
 }
