@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+* main - prints each letter of the alphabet
+* Return: 0
+*/
 int main(void)
 {
 	char i;
