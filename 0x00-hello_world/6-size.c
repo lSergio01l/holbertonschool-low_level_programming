@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-	* main - Prints size of  data types
+	* main - Prints size of data types
 	* Description: Prints the sizes of char, int, long int, long long int, and float
 	* Return: 0 
 */
