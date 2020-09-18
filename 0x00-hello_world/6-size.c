@@ -3,7 +3,7 @@
 /**
 	* main - Prints size of data types
 	* Description: Prints the sizes of char, int, long int, long long int, and float
-	* Return: 0 
+	* Return: 0
 */
 int main(void)
 {
