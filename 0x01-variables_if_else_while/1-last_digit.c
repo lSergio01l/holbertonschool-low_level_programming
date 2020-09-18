@@ -13,11 +13,11 @@ int main(void)
 
 	printf("Last digit of %i is %i",n, LastDigit);
 	if (LastDigit > 5) {
-		rintf("and is greater than 5\n", n);
+		printf("and is greater than 5\n", n);
 	} else if (LastDigit == 0) {
-		rintf("and is 0\n", n);
+		printf("and is 0\n", n);
 	} else {
-		rintf("and is less than 6 and not 0\n", n);
+		printf("and is less than 6 and not 0\n", n);
 	}
 	return (0);
 }
