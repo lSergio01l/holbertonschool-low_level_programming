@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
 * main - print the alphabet in reverse
-* Description: print the alphabet in reverse since z to a
 * Return_ 0
 */
 int main(void)
